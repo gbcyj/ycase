@@ -16,7 +16,7 @@ public class CalculatorsTest {
 	}
 	@After  
     public void tearDown() throws Exception {  
-        System.out.println("testing is end....");  
+        System.out.println("testing finish....");  
     }
 	@SuppressWarnings("deprecation")
 	@Test
